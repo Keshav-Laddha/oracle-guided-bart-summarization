@@ -226,6 +226,8 @@ Higher novelty indicates more abstractive generation.
 
 Oracle-guided BART draws information from deeper article regions instead of relying heavily on opening sentences.
 
+![Lead Bias Analysis](results/lead_bias_analysis.png)
+
 ---
 
 # Abstractiveness Results
